@@ -3,8 +3,8 @@
 ![paperbrief — papers to brief in seconds](assets/cover.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/lastknownstar-bot/paperbrief?style=social)](https://github.com/lastknownstar-bot/paperbrief/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/lastknownstar-bot/paperbrief)](https://github.com/lastknownstar-bot/paperbrief/commits/master)
+[![GitHub stars](https://img.shields.io/github/stars/Figo-star/paperbrief?style=social)](https://github.com/Figo-star/paperbrief/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/Figo-star/paperbrief)](https://github.com/Figo-star/paperbrief/commits/master)
 
 **Any topic → ranked papers with TL;DRs, links, and dates. No API key, no dependencies.**
 
@@ -28,7 +28,7 @@ $ node bin/paperbrief.mjs brief "KV cache optimization" --n 5
 ## Install
 
 ```bash
-git clone https://github.com/lastknownstar-bot/paperbrief.git
+git clone https://github.com/Figo-star/paperbrief.git
 cd paperbrief
 node bin/paperbrief.mjs brief "diffusion language models" --n 5 --out brief.md
 ```

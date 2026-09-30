@@ -1,0 +1,10 @@
+{
+  "name": "paperbrief",
+  "version": "0.1.0",
+  "description": "arXiv topic to research digest in one command. No key, no deps.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
